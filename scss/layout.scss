@@ -1,5 +1,5 @@
 //variables
-$containerWidth: 1170px;
+$containerWidth: 1342px;
 $gap: 15px;
 $columnsCount: 12;
 $colWidth: 100%/$columnsCount;
@@ -35,17 +35,51 @@ $colWidth: 100%/$columnsCount;
     }
 }
 
-/*ba-cammon*/
-.ba-text-center {
-    text-align: center;
+@media screen and (min-width: 991px) {
+    .ba-col-md-12 {
+        width: 100%;
+      }
+      .ba-col-md-11 {
+          width: 91.66%;
+      }
+      .ba-col-md-10 {
+          width: 83.3%;
+      }
+      .ba-col-md-9 {
+          width: 74.97%;
+      }
+      .ba-col-md-8 {
+          width: 66.62%;
+      }
+      .ba-col-md-7 {
+          width: 58.3%;
+      }
+      .ba-col-md-6 {
+        width: 50%;
+    }
+      .ba-col-md-5 {
+          width: 41.65%;
+      }
+      .ba-col-md-4 {
+          width: 33.3%;
+      }
+      .ba-col-md-3 {
+          width: 24.98%;
+      }
+      .ba-col-md-2 {
+          width: 16.66%;
+      }
+      .ba-col-md-1 {
+          width: 8.33%;
+      }
+
+      .hidden-md {
+          display: none;
+      }
 }
-.ba-text-right {
-    text-align: right;
-}
-.ba-text-left {
-    text-align: left;
-}
-.ba-text-justify {
-    text-align: justify;
+@media screen and (max-width: 990px) {
+    .hidden-sm {
+        display: none;
+    }
 }
 
