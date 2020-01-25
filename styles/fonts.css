@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'font05be004b21ff4f5e9ab47b4cf8edb0d1';
+        
+        src:    url('https://nomail.com.ua/files/eot/05be004b21ff4f5e9ab47b4cf8edb0d1.eot?#iefix') format('embedded-opentype'),
+                url('https://nomail.com.ua/files/woff/05be004b21ff4f5e9ab47b4cf8edb0d1.woff') format('woff'),
+                url('https://nomail.com.ua/files/woff2/05be004b21ff4f5e9ab47b4cf8edb0d1.woff2') format('woff2');
+    }
+    
+    @font-face { font-family: 'MullerExtraBoldDEMO';  src: local('MullerExtraBoldDEMO'), url('https://nomail.com.ua/files/woff/05be004b21ff4f5e9ab47b4cf8edb0d1.woff') format('woff'); }
+
+
+    @font-face {
+font-family: 'font07689d4eaaa3d530d58826b5d7f84735';
+    
+    src:    url('https://nomail.com.ua/files/eot/07689d4eaaa3d530d58826b5d7f84735.eot?#iefix') format('embedded-opentype'),
+            url('https://nomail.com.ua/files/woff/07689d4eaaa3d530d58826b5d7f84735.woff') format('woff'),
+            url('https://nomail.com.ua/files/woff2/07689d4eaaa3d530d58826b5d7f84735.woff2') format('woff2');
+}
+
+@font-face { font-family: 'Montserrat-Regular';  src: local('Montserrat-Regular'), url('https://nomail.com.ua/files/woff/07689d4eaaa3d530d58826b5d7f84735.woff') format('woff'); }
+
+        @font-face {
+            font-family: 'fontd3085f686df272f9e1a267cc69b2d24f';
+                
+                src:    url('https://nomail.com.ua/files/eot/d3085f686df272f9e1a267cc69b2d24f.eot?#iefix') format('embedded-opentype'),
+                        url('https://nomail.com.ua/files/woff/d3085f686df272f9e1a267cc69b2d24f.woff') format('woff'),
+                        url('https://nomail.com.ua/files/woff2/d3085f686df272f9e1a267cc69b2d24f.woff2') format('woff2');
+            }
+            
+            @font-face { font-family: 'Montserrat-Bold';  src: local('Montserrat-Bold'), url('https://nomail.com.ua/files/woff/d3085f686df272f9e1a267cc69b2d24f.woff') format('woff'); }
+
+            @font-face {
+                font-family: 'fontb8d1a0910468085af6c807892245f525';
+                    
+                    src:    url('https://nomail.com.ua/files/eot/b8d1a0910468085af6c807892245f525.eot?#iefix') format('embedded-opentype'),
+                            url('https://nomail.com.ua/files/woff/b8d1a0910468085af6c807892245f525.woff') format('woff'),
+                            url('https://nomail.com.ua/files/woff2/b8d1a0910468085af6c807892245f525.woff2') format('woff2');
+                }
+                
+                @font-face { font-family: 'MontserratAlternates-Regular';  src: local('MontserratAlternates-Regular'), url('https://nomail.com.ua/files/woff/b8d1a0910468085af6c807892245f525.woff') format('woff'); }
